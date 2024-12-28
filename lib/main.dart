@@ -1,5 +1,7 @@
+// ignore: depend_on_referenced_packages
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
+// ignore: depend_on_referenced_packages
 import 'package:provider/provider.dart';
 
 void main() {

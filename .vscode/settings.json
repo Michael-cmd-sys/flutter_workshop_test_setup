@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/michael-cmd-sys/Desktop/programs/local/flutter_walk/setup_test_app/windows"
+    "cmake.sourceDirectory": "/home/michael-cmd-sys/Desktop/programs/github.com/Michael-cmd-sys/setup_test_app/linux/flutter",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
